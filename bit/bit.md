@@ -16,10 +16,16 @@ Provide a sample 32-bit value and the expected 16-bit values.
 
 Write a solution in C or C++ performing the split in a function.
 
-### Part 3
+### Extra Credit
 
 Write a solution in Python performing the split in a function.
 
-### Part 4
+## Question 2
 
-Write a solution in C or C++ performing the split as a macro.
+Write a solution to (#Question-1) in C or C++ performing the split as a macro.
+
+## Question 3
+
+In C or C++, implement an inline solution to *set* a particular bit in a 32-bit
+value.  Conversely, implement an inline solution to *clear* a particular bit in
+a 32-bit value.
