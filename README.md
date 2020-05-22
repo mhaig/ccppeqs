@@ -11,10 +11,10 @@ it is a work in progress, there may be some outliers as the questions build.
 
 ## Sections
 
-* [bit](bit.md)
+* [bit](bit/bit.md)
   Questions related to bit manipulation
 
-* [linkedlist](linkedlist.md)
+* [linkedlist](linkedlist/linkedlist.md)
   Questions related to linked lists
 
 ## Resources
@@ -23,4 +23,4 @@ it is a work in progress, there may be some outliers as the questions build.
 * Pragmatic Programmer
 
 ### Sites
-* repl.it
+* [repl.it](https://repl.it)

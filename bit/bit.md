@@ -10,7 +10,7 @@ Split a 32-bit value into two 16-bit values.
 
 Provide a sample 32-bit value and the expected 16-bit values.
 
-.. Complete Part 1 and verify answer before completing the rest of the question.
+*Complete and verify answer before completing the rest of the question.*
 
 ### Part 2
 
@@ -22,7 +22,8 @@ Write a solution in Python performing the split in a function.
 
 ## Question 2
 
-Write a solution to (#Question-1) in C or C++ performing the split as a macro.
+Write a solution to [Question 1](#Question-1) in C or C++ performing the split
+as a macro.
 
 ## Question 3
 

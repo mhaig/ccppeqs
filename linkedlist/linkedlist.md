@@ -15,12 +15,14 @@ the list.
 
 ## Question 2
 
-Use the created linked list from (#Question-1) to create a list and load an
-arbitrary amount of random values.  Once loaded print the contents of the list.
+Use the created linked list from [Question 1](#Question-1) to create a list and
+load an arbitrary amount of random values.  Once loaded print the contents of
+the list.
 
 ## Question 3
 
-Expand your solution to (#Question-1) by making the list a circular linked list.
+Expand your solution to [Question 1](#Question-1) by making the list a circular
+linked list.
 
 ### Part 1
 
@@ -32,12 +34,12 @@ Implement.
 
 ## Question 4
 
-Expand your solution to (#Question-3) by providing a destructor.
+Expand your solution to [Question 3](#Question-3) by providing a destructor.
 
-## Question 4
+## Question 5
 
-Expand your solution to (#Question-4) by making the list store arbitrary data in
-each node.
+Expand your solution to [Question 4](#Question-4) by modifying the list store
+arbitrary data in each node.
 
 ### Part 1
 
