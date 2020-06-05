@@ -31,28 +31,24 @@ Finish this code block.
 /** String that will played with in this example. */
 char longString[] = "This is a long string that you will have to do stuff to.";
 
-/******************************************************************************
-    getSecondHalf
-*//**
+/**
     @brief Returns a pointer to the "second" half of a string.
 
     For example, with a string of length 20, return a pointer to the contents of
     position 10 to the end.
-******************************************************************************/
+*/
 static char*
 getSecondHalf(char* string)
 {
     /** @todo Implement this function. */
 }
 
-/******************************************************************************
-    getFirstHalf
-*//**
+/**
     @brief Returns a pointer to the "first" half of a string.
 
     For example, with a string of length 20, return a pointer to the contents of
     position 0 to position 9.
-******************************************************************************/
+*/
 static char*
 getFirstHalf(char* string)
 {
@@ -60,8 +56,8 @@ getFirstHalf(char* string)
 }
 
 /** @brief Main program entry point.
-    @param[in] argc  Number of arguments in @c argv.
-    @param[in] argv  Command-line arguments.
+    @param[in] argc  Unused
+    @param[in] argv  Unused
     @retval 0
         Success.
 */
@@ -74,6 +70,7 @@ main(int argc, char *argv[])
     (void) argc;
     (void) argv;
 
+    memset(string, 0, sizeof(longString));
     memcpy(string, longString, sizeof(longString)-1);
 
     printf("Entire string: %s\n", string);
