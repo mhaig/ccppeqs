@@ -17,6 +17,9 @@ it is a work in progress, there may be some outliers as the questions build.
 * [linkedlist](linkedlist/linkedlist.md)
   Questions related to linked lists
 
+* [pointers](pointers/pointers.md)
+  Questions related to pointers
+
 ## Resources
 
 ### Books

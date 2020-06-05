@@ -27,6 +27,6 @@ as a macro.
 
 ## Question 3
 
-In C or C++, implement an inline solution to *set* a particular bit in a 32-bit
-value.  Conversely, implement an inline solution to *clear* a particular bit in
-a 32-bit value.
+In C or C++, implement an inline solution to **set** a particular bit in a
+32-bit value.  Conversely, implement an inline solution to **clear** a
+particular bit in a 32-bit value.
